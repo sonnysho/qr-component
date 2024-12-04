@@ -15,8 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Acknowledgments](#acknowledgments)
 
 ### Screenshot
-
-![](images/website.jpg)
+![](images/website.png)
 
 - HTML5
 - CSS (normalize.css base)
